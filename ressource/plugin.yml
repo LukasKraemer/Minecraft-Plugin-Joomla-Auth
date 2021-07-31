@@ -1,0 +1,5 @@
+name: JoomlaAuth
+version: 1.0
+author: Lukas Krämer
+main: de.lukaskraemer.joomlaAuth.JoomlaAuth
+api-version: 1.16
